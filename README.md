@@ -12,7 +12,8 @@
 - OAuth2 Authentication
 
 ## Screenshot
-(image here)
+<img width="1916" height="986" alt="image" src="https://github.com/user-attachments/assets/4b8d17f7-4cae-457d-8a69-1e37866202c1" />
+
 
 ## How to Run
 1. Install dependencies
